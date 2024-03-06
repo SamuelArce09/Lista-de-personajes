@@ -1,0 +1,1 @@
+estos estilos seran ejecutados con sass,esto es una lista de personajes de bob esponja con un fondo desenfocado y un efecto hover
